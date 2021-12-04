@@ -1,7 +1,7 @@
 // Import /dependencies
 const express = require('express');
-const apiRoutes = require('./routes/api-routes');
-const htmlRoutes = require('./routes/html-routes');
+const apiRoutes = require('../routes/api-routes');
+const htmlRoutes = require('../routes/html-routes');
 
 // Initialize express
 const app = express();
