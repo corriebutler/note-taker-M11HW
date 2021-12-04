@@ -1,4 +1,5 @@
 # Note Taker M11HW
+    
 
   ## License
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
@@ -21,7 +22,10 @@
 
 
   ## Visuals
-  *Add Visuals Here*
+  ![image](https://user-images.githubusercontent.com/84928781/144689110-ab3d85b6-fb95-46b4-9b5f-a0234d3c424d.png)
+  ![image](https://user-images.githubusercontent.com/84928781/144689143-c5526914-4da8-4bb7-ba2a-b4f16f83fdd5.png)
+
+
 
   ## Languages Used
   HTML,CSS,JavaScript,ES6,Node
